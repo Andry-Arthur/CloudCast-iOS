@@ -19,5 +19,5 @@ This is lab 4 of CodePath's Introduction to iOS Development Course, Spring 2025.
    git clone https://github.com/Andry-Arthur/CloudCast-iOS.git
 
 2. (Optional) Adding a custom location:
-    - Go to ForecastViewController.swift and append your wanted location in the list
+    - Go to ForecastViewController.swift and append your wanted location in the `locations` list
     - Location format for list: Location(name, latitude, longitude)
