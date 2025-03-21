@@ -1,5 +1,7 @@
 # CloudCast iOS 🌤  
-## by Andry Rakotonjanabelo
+***by Andry Rakotonjanabelo***
+
+
 A sleek and simple weather app built using Swift and OpenWeatherAPI to deliver accurate and real-time weather information!
 
 ## Features  
